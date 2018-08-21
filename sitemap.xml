@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://postman.ug/index.html</loc>
-    <lastmod>2018-08-15</lastmod>
+    <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -17,32 +17,78 @@
     </image:image>
   </url>
   <url>
-    <loc>http://postman.ug/who-we-are.html</loc>
-    <lastmod>2018-08-15</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://postman.ug/images/postman-white.svg</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://postman.ug/what-we-do.html</loc>
-    <lastmod>2018-08-15</lastmod>
+    <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://postman.ug/images/postman-weblogo.svg</image:loc>
       <image:caption>Postman Logo</image:caption>
     </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/facebook-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/twitter.svg</image:loc>
+    </image:image>
   </url>
   <url>
-    <loc>http://postman.ug/get-in-touch.html</loc>
-    <lastmod>2018-08-15</lastmod>
+    <loc>http://postman.ug/who-we-are.html</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://postman.ug/images/postman-white.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/facebook-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/twitter.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://postman.ug/contact.html</loc>
+    <lastmod>2018-08-21</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://postman.ug/images/postman-white.svg</image:loc>
       <image:caption>Postman Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/facebook-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/twitter.svg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://postman.ug/our-crew.html</loc>
+    <lastmod>2018-08-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://postman.ug/images/postman-weblogo.svg</image:loc>
+      <image:caption>Postman Logo</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/linkedin.svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/facebook-(2).svg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://postman.ug/images/twitter.svg</image:loc>
     </image:image>
   </url>
   <url>
