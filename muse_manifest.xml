@@ -1,0 +1,75 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="postman.ug" resolutions="1x" timestamp="1534843428098">
+  <folder name="css">
+    <file name="site_global.css" crc="3843607874"/>
+    <file name="master_b-master.css" crc="385989223" ref="what-we-do:who-we-are:get-in-touch"/>
+    <file name="nomq_preview_master_b-master.css" crc="3850647418" ref="what-we-do:who-we-are:get-in-touch"/>
+    <file name="master_a-master.css" crc="4261573986" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="index"/>
+    <file name="what-we-do.css" crc="47568734" ref="what-we-do"/>
+    <file name="nomq_what-we-do.css" crc="4050697212" ref="what-we-do"/>
+    <file name="who-we-are.css" crc="89389273" ref="who-we-are"/>
+    <file name="nomq_who-we-are.css" crc="222576894" ref="who-we-are"/>
+    <file name="index.css" crc="6080432" ref="index"/>
+    <file name="nomq_index.css" crc="4237382998" ref="index"/>
+    <file name="get-in-touch.css" crc="1947361" ref="get-in-touch"/>
+    <file name="nomq_get-in-touch.css" crc="4277279150" ref="get-in-touch"/>
+  </folder>
+  <folder name="assets">
+    <file name="google-play-badge.eps" crc="4121298535" seo="true" mt="1532425791000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="museutils.js" crc="4232573551" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="whatinput.js" crc="86476730" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="museconfig.js" crc="3849126041" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="jquery.musemenu.js" crc="38860304" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="require.js" crc="4234670167" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="webpro.js" crc="3770351119" ref="get-in-touch"/>
+    <file name="form_check.php" crc="3841221102" ref="get-in-touch"/>
+    <file name="form_throttle.php" crc="4048049783" ref="get-in-touch"/>
+    <file name="form_process.php" crc="3899230280" ref="get-in-touch"/>
+    <file name="form-u1052.php" crc="462213335" ref="get-in-touch"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="244155890" ref="index"/>
+    <file name="postman-forredbg.svg" crc="3913986049" seo="true" ref="index">
+      <caption webpage="index" alt="Postman Logo"/>
+      <caption webpage="index" alt="Postman Logo"/>
+    </file>
+    <file name="postman forredbg_poster_.png" crc="3852793856" ref="index"/>
+    <file name="pasted-svg-135x40.svg" crc="3994668560" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pasted svg 135x40_poster_.png" crc="4169986830" ref="index"/>
+    <file name="screenshot_20180723-105329.png" crc="3938709826" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pattern.jpg" crc="303562595" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:who-we-are:what-we-do:get-in-touch"/>
+    <file name="b-master-favicon.ico" crc="244155890" ref="who-we-are"/>
+    <file name="postman-white.svg" crc="4260138218" seo="true" ref="who-we-are:get-in-touch">
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="who-we-are" alt=""/>
+      <caption webpage="get-in-touch" alt="Postman Logo"/>
+      <caption webpage="get-in-touch" alt="Postman Logo"/>
+    </file>
+    <file name="postman white_poster_.png" crc="406937782" ref="who-we-are"/>
+    <file name="postman-weblogo.svg" crc="3805584828" seo="true" ref="what-we-do">
+      <caption webpage="what-we-do" alt="Postman Logo"/>
+      <caption webpage="what-we-do" alt="Postman Logo"/>
+    </file>
+    <file name="postman weblogo_poster_.png" crc="3791214097" ref="what-we-do"/>
+  </folder>
+  <file name="index.html" crc="514584684" seo="true" mt="1534319272510" redirect="true"/>
+  <file name="who-we-are.html" crc="4268192004" seo="true" mt="1534319272517" redirect="true"/>
+  <file name="what-we-do.html" crc="4093414971" seo="true" mt="1534319469045" redirect="true"/>
+  <file name="get-in-touch.html" crc="3990089817" seo="true" mt="1534319272517" redirect="true"/>
+</manifest>
